@@ -8,7 +8,7 @@
     "main": "worker/index.ts",
     "compatibility_date": "2025-04-05",
     "assets": {
-        "name": "cokenavihive"
+        "not_found_handling": "single-page-application"
     },
     "observability": {
         "enabled": true
